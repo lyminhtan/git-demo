@@ -1,3 +1,4 @@
 kkkkkkkkkk
+add function 1
 Abc
-DEF
+DEF - modified function 2
