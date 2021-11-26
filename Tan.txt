@@ -1,4 +1,5 @@
 kkkkkkkkkk
 add function 1
-Abc
+Abc - Tan them chu
 DEF - modified function 2
+Tan them dong
